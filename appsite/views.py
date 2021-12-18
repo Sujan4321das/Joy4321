@@ -8,6 +8,7 @@ from .decorator import *
 from django.core.exceptions import PermissionDenied
 from datetime import datetime
 from datetime import date
+from PIL import Image
 
 # Create your views here.
 
